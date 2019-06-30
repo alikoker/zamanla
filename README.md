@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>Zamanla, herhangi bir işlemin belirlenen süre sonunda yapılmasını sağlayan programdır.</strong></p>
 <p><strong>İstediğiniz süre sonunda bilgisayarınızı kapatabilir, özel bir komut çalıştırabilir ve bunun gibi pek çok işlemi zamanlayabilirsiniz.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*yVYeLOPFOS5x4K61ogHeSg.jpeg" alt=""></p>
@@ -33,4 +28,3 @@
 <p><a href="http://www.indir.com/koker-zamanla">indir.com</a></p>
 <p><a href="http://www.inndir.com/Koker-Zamanla!-50252p.html">inndir.com</a></p>
 <p><a href="http://www.tamindir.com/koker-zamanla/">tamindir.com</a></p>
-
